@@ -1,0 +1,10 @@
+pregunta 7
+R//
+http://localhost:3000
+Esta ruta principal muestra el mensaje inicial o la página de inicio del servidor.
+
+http://localhost:3000/saludo
+Esta ruta devuelve un saludo definido en el servidor, por ejemplo “Hola mundo”.
+
+http://localhost:3000/mensaje/juan
+Esta ruta recibe el nombre “juan” como parámetro y muestra un mensaje personalizado usando ese nombre.
